@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\CareerDevs\java\Java-Scraper\Jsouptutorial\.metadata\.plugins\org.eclipse.jdt.core
+2832160296.index
+3271193799.index
+1671692264.index
